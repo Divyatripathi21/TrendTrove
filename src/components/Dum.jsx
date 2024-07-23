@@ -7,7 +7,7 @@ const Dum=()=>{
             <div>
             <img
             className="empty_bag"
-            src="public\images\empty_bag.jpg"
+            src=".\empty_bag.jpg"
             alt="Myntra Home"
           /> 
           </div>
