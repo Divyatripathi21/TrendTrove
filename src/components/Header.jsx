@@ -51,7 +51,7 @@ const handleSearchChange = (e) => {
         <Link to="/">
           <img
             className="TrendTrove_home"
-            src=".\TrendTrove_logo.jpg"
+            src="\images\TrendTrove_logo.jpg"
             alt="TrendTrove Home"
           />
         </Link>
