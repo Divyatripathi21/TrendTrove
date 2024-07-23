@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
+    "build": "npm install",
+    "serve": "vite preview",
+     "start": "serve -s dist"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
